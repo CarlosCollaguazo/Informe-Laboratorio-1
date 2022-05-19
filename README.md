@@ -324,6 +324,9 @@ R= 10000 ohms
 
 R= 19999
 
+Video
+
+https://drive.google.com/uc?id=1y4KnfcI0SJKkiqQu3TdBRpZ84-eEbIxJ&export=download
 
 Conclusiones:
 
