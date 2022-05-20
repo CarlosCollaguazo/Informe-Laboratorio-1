@@ -86,6 +86,12 @@ https://www.youtube.com/watch?v=FCJQf8EG9kY
 # 6. Conclusiones
 
 # 7. Bibliografía
+* 330OHMS. (20 de MAYO de 2022). 330OHMS. Obtenido de 330OHMS: https://blog.330ohms.com/2016/03/02/protoboards/
+* acmax.mx. (20 de MAYO de 2022). acmax.mx. Obtenido de acmax.mx: https://acmax.mx/que-es-una-fuente-de-voltaje
+* Area tecnologia. (VIERNES 20 de MAYO de 2022). Area tecnologia. Obtenido de Area tecnologia: https://www.areatecnologia.com/electricidad/cables-conductores.html
+* FLUKE. (20 de MAYO de 2022). FLUKE. Obtenido de FLUKE: https://www.fluke.com/es-sv/informacion/blog/electrica/que-es-la-resistencia
+* GLS INDUSTRIAS. (20 de MAYO de 2022). GLS INDUSTRIAS. Obtenido de GLS INDUSTRIAS: https://industriasgsl.com/blogs/automatizacion/material_electrico#:~:text=El%20material%20eléctrico%20es%20un,y%20distribución%20de%20energía%20eléctrica.
+* MecatrónicaLATAM. (20 de Mayo de 2022). MecatrónicaLATAM. Obtenido de MecatrónicaLATAM: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
 
 * Rúbrica
 
