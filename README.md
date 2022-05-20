@@ -50,7 +50,7 @@ Conocer conceptos esenciales sobre la aplicación de las leyes de kirchhoff en c
 
 
 
-
+fsadgfsdgdfg
 
 
 
