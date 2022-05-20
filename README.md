@@ -88,6 +88,7 @@ del nodo. Anote los resultados en la tabla 1.3.
 
 ![image](https://user-images.githubusercontent.com/105675868/169567909-8faf0e3b-0617-487c-96a4-412dd4f3d799.png)
 
+![image](https://user-images.githubusercontent.com/105675868/169573768-7e7d32af-5637-444b-92df-3efc62653883.png)
 
 # 5. Video
 
