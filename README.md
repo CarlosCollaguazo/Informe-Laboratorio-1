@@ -2,7 +2,7 @@
 
 Universidad de las Fuerzas Armadas (ESPE)
 
-Nombres: Carlos Collaguazo, Joshua Hernández, Wiliam Cahuatijo 
+Nombres: Carlos Collaguazo, Joshua Hernández, 
 
 Materia: Fundamentos de Circuitos Electrónicos
 
@@ -86,6 +86,11 @@ del nodo. Anote los resultados en la tabla 1.3.
 https://www.youtube.com/watch?v=FCJQf8EG9kY
 
 # 6. Conclusiones
+
+* Los conceptos básicos son necesarios para un mejor entendimiento de los circuitos eléctricos, mostrando un uso de los diversos aparatos electrónicos que brindan ayuda para la medición de voltajes, corrientes y resistencias, además gracias a las unidades de medidas se pudo realizar de una mejor manera los cálculos manuales para conseguir lo antes resolver las incógnitas del laboratorio.
+* La revisión de material didáctico aporto en gran cantidad con la información requerida para el aprendizaje y sirvió como método de guía al tema.
+* La elaboración del documento escrito es de gran ayuda para plasmar el conocimiento adquirido, mostrando, por medio de la utilización de ejemplos, el uso correcto de fórmulas, para aplicar de manera adecuada según sea necesario.
+
 
 # 7. Bibliografía
 * 330OHMS. (20 de MAYO de 2022). 330OHMS. Obtenido de 330OHMS: https://blog.330ohms.com/2016/03/02/protoboards/
