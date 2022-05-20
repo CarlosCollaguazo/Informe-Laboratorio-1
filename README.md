@@ -16,11 +16,9 @@ Conocer conceptos esenciales sobre la aplicación de las leyes de kirchhoff en c
 
 1.2 Objetivos específicos
 
-*Investigar conceptos básicos que muestran el uso adecuado de las leyes de kirchhoff en circuitos mixtos.
-
-*Hacer uso del simulador tinkercad para un mejor entendimiento sobre el montaje de circuitos eléctricos, mediante la utilización de materiales de laboratorios simulados por el mismo.
-
-*Referenciar los conocimientos adquiridos, en el periodo de tiempo utilizado para resolver el laboratorio, mediante la elaboración de un documento escrito que lleve al lector a un mejor entendimiento del tema plasmado.
+* Investigar conceptos básicos que muestran el uso adecuado de las leyes de kirchhoff en circuitos mixtos.
+* Hacer uso del simulador tinkercad para un mejor entendimiento sobre el montaje de circuitos eléctricos, mediante la utilización de materiales de laboratorios simulados por el mismo.
+* Referenciar los conocimientos adquiridos, en el periodo de tiempo utilizado para resolver el laboratorio, mediante la elaboración de un documento escrito que lleve al lector a un mejor entendimiento del tema plasmado.
 
 # 2 Marco Teórico
 
@@ -43,16 +41,24 @@ Conocer conceptos esenciales sobre la aplicación de las leyes de kirchhoff en c
 
 # 3 Explicación del problema
 
-3.1 Arme el circuito que se muestra en la figura 1.1.
+* Arme el circuito que se muestra en la figura 1.1.
 
 ![image](https://user-images.githubusercontent.com/105675868/169567134-c9549358-ce54-4c52-86f3-9d3104ae4fe8.png)
 
 
-3.2 Circuitos en tinkercad
+* Circuitos en tinkercad
 
 ![image](https://user-images.githubusercontent.com/105675868/169567238-c303beb2-5153-4d7e-b7f7-02cd4154aa8d.png)
 
-3.3 Resolución de problema
+* Resolución de problema
+
+![Opportunity Solution Tree](https://user-images.githubusercontent.com/105715717/169569629-817a175a-e4d0-47f7-8966-e06d6ef87d80.jpg)
+
+![Opportunity Solution Tree (1)](https://user-images.githubusercontent.com/105715717/169569659-edaf5823-ce00-418e-9084-8cc933e94173.jpg)
+
+![Opportunity Solution Tree (2)](https://user-images.githubusercontent.com/105715717/169569702-c45d7904-14bd-4194-bb58-d96ce1349354.jpg)
+
+![Opportunity Solution Tree (3)](https://user-images.githubusercontent.com/105715717/169569733-16153326-0295-446f-9503-5fc6a5c3ff58.jpg)
 
 
 # 4. Respuestas a interrogante
