@@ -57,6 +57,23 @@ Conocer conceptos esenciales sobre la aplicación de las leyes de kirchhoff en c
 
 # 4. Respuestas a interrogante
 
+* Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
+resultados de las mediciones en la tabla 1.1.
+
+![image](https://user-images.githubusercontent.com/105675868/169567611-aa5e6890-5c1c-46ac-8be7-89fbe825c03e.png)
+
+* Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
+considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
+signo negativo. Anote los resultados en la tabla 1.2.
+
+![image](https://user-images.githubusercontent.com/105675868/169567742-108c2332-f861-4820-9b43-68c7d82582e5.png)
+
+* Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
+con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
+del nodo. Anote los resultados en la tabla 1.3.
+
+![image](https://user-images.githubusercontent.com/105675868/169567909-8faf0e3b-0617-487c-96a4-412dd4f3d799.png)
+
 
 # 5. Video
 
@@ -66,22 +83,7 @@ Conocer conceptos esenciales sobre la aplicación de las leyes de kirchhoff en c
 
 
 
-3.2 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
-resultados de las mediciones en la tabla 1.1.
 
-![image](https://user-images.githubusercontent.com/105675868/169567611-aa5e6890-5c1c-46ac-8be7-89fbe825c03e.png)
-
-3.3 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
-considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
-signo negativo. Anote los resultados en la tabla 1.2.
-
-![image](https://user-images.githubusercontent.com/105675868/169567742-108c2332-f861-4820-9b43-68c7d82582e5.png)
-
-3.4 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
-con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
-del nodo. Anote los resultados en la tabla 1.3.
-
-![image](https://user-images.githubusercontent.com/105675868/169567909-8faf0e3b-0617-487c-96a4-412dd4f3d799.png)
 
 
 
