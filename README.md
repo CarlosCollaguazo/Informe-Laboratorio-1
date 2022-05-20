@@ -78,7 +78,9 @@ resultados de las mediciones en la tabla 1.1.
 considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
 signo negativo. Anote los resultados en la tabla 1.2.
 
-![image](https://user-images.githubusercontent.com/105675868/169567742-108c2332-f861-4820-9b43-68c7d82582e5.png)
+![image](https://user-images.githubusercontent.com/105675868/169571514-80fa267a-c4aa-4add-91aa-93793c6531dd.png)
+
+![image](https://user-images.githubusercontent.com/105675868/169571801-8639d22c-28be-4ebe-9481-52d1dabe1c6c.png)
 
 * Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
