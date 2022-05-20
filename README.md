@@ -48,7 +48,13 @@ Conocer conceptos esenciales sobre la aplicación de las leyes de kirchhoff en c
 
 * Circuitos en tinkercad
 
-![image](https://user-images.githubusercontent.com/105675868/169567238-c303beb2-5153-4d7e-b7f7-02cd4154aa8d.png)
+Medición de voltajes
+
+![image](https://user-images.githubusercontent.com/105715717/169570887-b7c10ac7-6d95-4737-96e3-d5492934e454.png)
+
+Medición de corrientes
+
+![image](https://user-images.githubusercontent.com/105715717/169570962-af91d86d-ac1f-4250-b91a-65ab5c74223e.png)
 
 * Resolución de problema
 
