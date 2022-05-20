@@ -83,9 +83,15 @@ del nodo. Anote los resultados en la tabla 1.3.
 
 # 5. Video
 
-# 6. Concluiones
+https://www.youtube.com/watch?v=FCJQf8EG9kY
+
+# 6. Conclusiones
 
 # 7. Bibliografía
+
+* Rúbrica
+
+![image](https://user-images.githubusercontent.com/105715717/169569926-450a72e1-829a-45ab-b7da-560fb5162b98.png)
 
 
 
