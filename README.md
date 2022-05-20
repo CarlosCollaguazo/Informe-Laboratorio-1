@@ -40,13 +40,30 @@ Conocer conceptos esenciales sobre la aplicación de las leyes de kirchhoff en c
 
 
 
-3 Explicación del problema
+
+# 3 Explicación del problema
 
 3.1 Arme el circuito que se muestra en la figura 1.1.
 
 ![image](https://user-images.githubusercontent.com/105675868/169567134-c9549358-ce54-4c52-86f3-9d3104ae4fe8.png)
 
+
+3.2 Circuitos en tinkercad
+
 ![image](https://user-images.githubusercontent.com/105675868/169567238-c303beb2-5153-4d7e-b7f7-02cd4154aa8d.png)
+
+3.3 Resolución de problema
+
+
+# 4. Respuestas a interrogante
+
+
+# 5. Video
+
+# 6. Concluiones
+
+# 7. Bibliografía
+
 
 
 3.2 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
