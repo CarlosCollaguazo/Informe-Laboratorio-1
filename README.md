@@ -8,7 +8,7 @@ Materia: Fundamentos de Circuitos Electrónicos
 
 NRC: 7310
 
-1 Objetivos
+# 1 Objetivos
 
 1.1 Objetivo General
 
@@ -22,7 +22,7 @@ Conocer conceptos esenciales sobre la aplicación de las leyes de kirchhoff en c
 
 *Referenciar los conocimientos adquiridos, en el periodo de tiempo utilizado para resolver el laboratorio, mediante la elaboración de un documento escrito que lleve al lector a un mejor entendimiento del tema plasmado.
 
-2 Marco Teórico
+# 2 Marco Teórico
 
 
 
