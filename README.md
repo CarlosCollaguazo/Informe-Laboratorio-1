@@ -2,7 +2,7 @@
 
 Universidad de las Fuerzas Armadas (ESPE)
 
-Nombres: Carlos Collaguazo, Joshua Hernández, 
+Nombres: Carlos Collaguazo, Joshua Hernández, Wiliam Cahuatijo 
 
 Materia: Fundamentos de Circuitos Electrónicos
 
