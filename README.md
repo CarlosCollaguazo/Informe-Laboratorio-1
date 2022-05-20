@@ -45,6 +45,7 @@ Conocer conceptos esenciales sobre la aplicación de las leyes de kirchhoff en c
 
 ![image](https://user-images.githubusercontent.com/105675868/169567134-c9549358-ce54-4c52-86f3-9d3104ae4fe8.png)
 
+![Concept Map (2)](https://user-images.githubusercontent.com/105715717/169573956-bf38205b-8305-46c0-a136-edd56a7cf447.jpg)
 
 * Circuitos en tinkercad
 
