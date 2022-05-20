@@ -22,21 +22,9 @@ Conocer conceptos esenciales sobre la aplicación de las leyes de kirchhoff en c
 
 # 2 Marco Teórico
 
+![image](https://user-images.githubusercontent.com/105715717/169574287-093587c0-0fbe-43f8-bbaa-49e685c9e6ef.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/105715717/169574332-96ccbf02-60fc-46f8-86d5-510d3b26a44e.png)
 
 
 # 3 Explicación del problema
